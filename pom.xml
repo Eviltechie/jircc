@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>jircc</name>
-  <url>http://maven.apache.org</url>
+  <url>http://joe.to</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
